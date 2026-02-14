@@ -16,8 +16,8 @@ A simple **Login and Signup Form** built using HTML, CSS, and JavaScript. This p
 - **JavaScript** – Form validation and interactivity  
 
 ## Screenshots
-![Login Form](assets/login.png)
-![Signup Form](assets/signup.png)
+![Login Form](web_projects/assets/login.png)
+![Signup Form](web_projects/assets/signup.png)
 
 
 ## Installation
